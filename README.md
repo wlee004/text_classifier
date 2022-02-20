@@ -1,1 +1,2 @@
-# text_classifier
+# Text Classification using Multinomial Naive Bayes
+
